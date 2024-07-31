@@ -20,6 +20,6 @@ jobs:
         REMOTE_HOST: "heitorccf.myddns.me"
         REMOTE_USER: "ubuntu"
         
-        TARGET: "/var/www/html/"
+        TARGET: "/var/www/html/UpKeep"
         
         
